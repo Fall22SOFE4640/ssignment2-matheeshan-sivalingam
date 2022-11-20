@@ -5,7 +5,7 @@ Date: 20/11/2022
 
 ## Layout
 <p align="center">
-  <img src="gif/Layout.png">
+  <img height = 972px width = 446px src="gif/Layout.png">
 </p>
 
 ## Call 
