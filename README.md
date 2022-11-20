@@ -1,16 +1,25 @@
-# assignment_2
+# SOFE4640U: Mobile Application Development Assignment 2
+Name: Matheeshan Sivalingam<br>
+Student number: 100703887<br>
+Date: 20/11/2022
 
-A new Flutter project.
+## Layout
+<p align="center">
+  <img src="gif/Layout.png">
+</p>
 
-## Getting Started
+## Call 
+<p align="center">
+  <img src="gif/call.gif">
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Route
+<p align="center">
+  <img src="gif/route.gif">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Share
+<p align="center">
+  <img src="gif/share.gif">
+</p>
